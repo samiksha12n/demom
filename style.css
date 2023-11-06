@@ -1,3 +1,9 @@
+body {
+    background-color: blue;
+    border: 2px;
+    border-style: ridge;
+}
+
 h1 {
     background-color: blue;
     background-origin: content-box;
